@@ -1,4 +1,4 @@
-# Shine Backend
+# Shine API CORE
 
 This is how Shine Lyrics translates your songs into different languages. Using typescript and express js to build the api
 
